@@ -5,7 +5,6 @@ const app = express();
 
 // Middlewares
 
-
 // Routes
 
 
